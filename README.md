@@ -1,2 +1,2 @@
 # Chess_Playing_Robot
-A 6-DOF robotic arm kit with servos and mechanical claw, controlled via Python on a Raspberry Pi. A Pi Camera Module OV5647 (1080p) captures real-time video; a custom Roboflow-trained detection model tracks chess pieces. Stockfish, integrated via its Python API, provides strategic move decisions.
+A Gantry-like 3-DOF robot that is controlled using Python that runs on a Raspberry Pi. A custom chessboard that utilizes Hall Effect Sensors to be able to determine the position on the board. Robot utilizes Stockfish, integrated via its Python API to provide strategic decisions for moves.
